@@ -2,20 +2,24 @@
 
 ## Pre-Workshop Instructions
 
-### Setup
-
 Completing these steps will help you follow along and complete assignments on time.
 
-Create an account on these websites:
-Installing the following tools:
+### Online Tools
 
-### System Requirements
+- [ ] [GitHub](https://github.com/)
+- [ ] [Repl.it](https://replit.com/)
+- [ ] [CodeSandbox](https://codesandbox.io/)
 
-- [git](https://git-scm.com/) v2 or higher
-- [Node.js](https://nodejs.org/en/) v10 or higher
-- [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) v6 or higher
+### Installation
 
-To verify things are set up properly, run:
+- [ ] [Git](https://git-scm.com/) 
+- [ ] [Node.js & NPM](https://nodejs.org/en/) (The Chocolatey installation step is optional for this workshop)
+- [ ] [Visual Studio Code IDE](https://code.visualstudio.com/) This is optional. Any code editor you're comfortable with will do.
+  - [ ] [Prettier Extension](https://prettier.io/)
+  - [ ] [ES Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [X] [create-react-app](https://create-react-app.dev/) This needs no installation.
+
+To verify your installation, run:
 
 ```sh
 git --version
