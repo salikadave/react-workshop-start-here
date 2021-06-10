@@ -31,10 +31,10 @@ npm --version
 
 ## Workshop Outline
 
-## Assignments
+<!-- ## Assignments & Project
 
-## Project Ideas
+Head over to the assignments folder for your project to-dos! -->
 
-## Resources
+<!-- ## Resources -->
 
 ## License
