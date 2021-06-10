@@ -40,3 +40,5 @@ Head over to the assignments folder for your project to-dos! -->
 <!-- ## Resources -->
 
 ## License
+
+[MIT License](https://github.com/salikadave/react-workshop-start-here/blob/main/LICENSE)
