@@ -1,5 +1,7 @@
 # 🔰 React Workshop -- Begin Here
 
+[![](https://img.shields.io/badge/Instructor-salikadave-511281?labelColor=21094e)](https://github.com/salikadave) [![](https://img.shields.io/badge/Instructor-shwetanadar-2940d3?labelColor=21094e)](https://github.com/ShwetaNadar)
+
 ## Pre-Workshop Instructions
 
 Completing these steps will help you follow along and complete assignments on time.
