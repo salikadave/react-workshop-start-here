@@ -29,7 +29,9 @@ node --version
 npm --version
 ```
 
-## Workshop Outline
+See you in the workshop! 😁
+
+<!-- ## Workshop Outline -->
 
 <!-- ## Assignments & Project
 
