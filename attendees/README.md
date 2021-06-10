@@ -1,6 +1,6 @@
-## Hello!
+## Hello! 😀
 
-This folder is your space. You can use this folder to introduce yourself and tell us about the progress of your assignments.
+This folder is your space. Use it to introduce yourself and tell us about the progress of your assignments.
 
 To add your name to this folder, you are required to create a **markdown** file by your name, eg. `JaneDoe.md`.
 
