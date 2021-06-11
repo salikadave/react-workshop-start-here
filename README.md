@@ -4,13 +4,16 @@
 
 ## Pre-Workshop Instructions
 
-Completing these steps will help you follow along and complete assignments on time.
+Completing these steps will help you follow along and complete assignments on time. ⭐ this repository for your reference.
 
 ### Online Tools
+
+To save your work, you'll need an account on these websites.
 
 - [ ] [GitHub](https://github.com/)
 - [ ] [Repl.it](https://replit.com/)
 - [ ] [CodeSandbox](https://codesandbox.io/)
+- [ ] [Netlify](https://www.netlify.com/)
 
 ### Installation
 
