@@ -32,7 +32,7 @@ node --version
 npm --version
 ```
 
-See you in the workshop! 😁
+See you in the workshop!! 😁
 
 <!-- ## Workshop Outline -->
 
