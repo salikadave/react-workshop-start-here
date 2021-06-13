@@ -1,8 +1,8 @@
 # Javascript Basics
 
-This language is massive, so it's difficult to cover every aspect of it. But since we're learning React, we need to learn next-gen javascript, which is ES6 version. We've put together some examples for you based on what we learnt.
+This language is massive, so it's difficult to cover every aspect of it. But since we're learning React, we need to learn next-gen javascript, which is the ES6 version. We've put together some examples for you based on what we learnt.
 
-At a later point we'll try to add more essential ES6 Feature Examples like higher-order functions, promises, callbacks, etc.
+At a later point we'll try to add more essential ES6 Feature Examples like _higher-order functions, promises, callbacks,_ etc.
 
 ### JS ES6:
 
