@@ -31,13 +31,13 @@ At a later point we'll try to add more essential ES6 Feature Examples like highe
 
 5. Destructuring, Spread Operators:
 
-- [Example](./spread_n_rest.js)
+- [Example](./destructuring_n_spread.js)
 - [MDN - Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 - [MDN - Spread Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 
 6. Rest Parameters:
 
-- [Example](./rest_operators.js)
+- [Example](./rest_parameter.js)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
 
 7. Classes in JS:
