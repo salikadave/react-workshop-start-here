@@ -2,9 +2,16 @@
 
 [![](https://img.shields.io/badge/Instructor-salikadave-511281?labelColor=21094e)](https://github.com/salikadave) [![](https://img.shields.io/badge/Instructor-shwetanadar-2940d3?labelColor=21094e)](https://github.com/ShwetaNadar)
 
+## Contents
+
+- [JS Start Here](https://github.com/salikadave/react-workshop-start-here/tree/main/js-start-here)
+- [React Start Here](https://github.com/salikadave/react-workshop-start-here/tree/main/react-start-here)
+- [Workshop To Do](https://github.com/salikadave/react-workshop-start-here/tree/main/to-do)
+- [Attendees Space](https://github.com/salikadave/react-workshop-start-here/tree/main/attendees)
+
 ## Pre-Workshop Instructions
 
-Completing these steps will help you follow along and complete assignments on time. ⭐ this repository for your reference.
+Completing these steps will help you follow along and complete assignments on time. ⭐ this repository for your future reference.
 
 ### Online Tools
 
