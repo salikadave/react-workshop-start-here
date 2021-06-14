@@ -6,6 +6,10 @@ React is vast, but concepts we covered are the fundamental building blocks of Re
 
 [Official React Documentation](https://reactjs.org/docs/getting-started.html)
 
+[`create-react-app`](https://create-react-app.dev/docs/getting-started) package
+
+[`react-router-dom`](https://reactrouter.com/web/guides/quick-start) package
+
 - [JSX](https://reactjs.org/docs/introducing-jsx.html) - HTML in Javascript
 - [Components & Props](https://reactjs.org/docs/components-and-props.html)
 - **State**
@@ -19,6 +23,11 @@ React is vast, but concepts we covered are the fundamental building blocks of Re
 - [Context](https://reactjs.org/docs/context.html)
 - [Context Provider](https://reactjs.org/docs/context.html#contextprovider)
 - [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext)
+
+`react-router-dom` hooks
+- [useParams](https://reactrouter.com/web/api/Hooks/useparams)
+- [useHistory](https://reactrouter.com/web/api/Hooks/usehistory)
+- [useRouteMatch](https://reactrouter.com/web/api/Hooks/useroutematch)
 
 ## CodeSandbox Examples
 
