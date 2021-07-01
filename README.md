@@ -8,6 +8,7 @@
 - [React Start Here](https://github.com/salikadave/react-workshop-start-here/tree/main/react-start-here)
 - [Workshop To Do](https://github.com/salikadave/react-workshop-start-here/tree/main/to-do)
 - [Attendees Space](https://github.com/salikadave/react-workshop-start-here/tree/main/attendees)
+- [Resources](https://github.com/salikadave/react-workshop-start-here/tree/main/resources)
 
 ## Pre-Workshop Instructions
 
