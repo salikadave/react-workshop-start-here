@@ -4,6 +4,7 @@
 
 ## Contents
 
+- [Workshop PPT](https://github.com/salikadave/react-workshop-start-here/blob/main/React%20Workshop.pdf)
 - [JS Start Here](https://github.com/salikadave/react-workshop-start-here/tree/main/js-start-here)
 - [React Start Here](https://github.com/salikadave/react-workshop-start-here/tree/main/react-start-here)
 - [Workshop To Do](https://github.com/salikadave/react-workshop-start-here/tree/main/to-do)
