@@ -8,6 +8,8 @@
 
 **Learning**
 - [Frontend Mentor](https://www.frontendmentor.io/)
+- [Frontend Developer Roadmap](https://roadmap.sh/frontend)
+- [React Developer Roadmap](https://roadmap.sh/react)
 
 **Tools**
 - [Framer: production-ready motion library for React](https://www.framer.com/motion/)
@@ -23,8 +25,7 @@
 - [Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.](https://chakra-ui.com/)
 
 ### Backend
-
-
+- [Backend Developer Roadmap](https://roadmap.sh/backend)
 
 
 _Content Coming Soon_
