@@ -21,9 +21,10 @@ To help you choose a project, we curated some ideas but you are free to select a
 ## 🎯 Project Submission Guidelines:
 
 - Must have a `README.md` file in the root directory providing instructions on:
-    - How to run the project
-    - Challenges / Errors you ran into + how did you fix them
-    - Technologies you used
+    - A brief introduction about your project
+    - How to run the project --> Try to rephrase the Create-React-App template
+    - Challenges/Errors you ran into + how did you fix them
+    - Technologies/Tools you used
 - Preferably deployed to any of the cloud services. (Netlify / Heroku / AWS / Any other service you are comfortable with)
 
 Go all out, you got this! 🔥
