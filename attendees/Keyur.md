@@ -1,6 +1,6 @@
-## Aditya Dongre
+## Keyur Panchal
 
-### About Me: I am from SE COMPS. I have worked on html css js and a bit in reactjs. I am excited for this internship
+### Completed 2nd Year Of Computer Engineering.Currently i have worked on Frontend and just a bit on nodejs and expressjs like just novice to this.  
 
 ### Links to my assignments here:
 
